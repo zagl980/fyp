@@ -22,7 +22,7 @@
  
  - Multiple secured login and registration, Use middleware route group for admin and users
  - Use database seeder
- - Secured payment system with **COD**.
+ - **Cash on Delivery**.
  - Resize the uploaded images. 
  
  ### Development
